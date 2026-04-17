@@ -1,0 +1,14 @@
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.AssemblyInfoInputs.cache
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.AssemblyInfo.cs
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.csproj.CoreCompileInputs.cache
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\bin\Debug\net10.0\Ejer6.exe
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\bin\Debug\net10.0\Ejer6.deps.json
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\bin\Debug\net10.0\Ejer6.runtimeconfig.json
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\bin\Debug\net10.0\Ejer6.dll
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\bin\Debug\net10.0\Ejer6.pdb
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.dll
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\refint\Ejer6.dll
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.pdb
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\Ejer6.genruntimeconfig.cache
+C:\Users\vlattanzio\source\repos\Ejer6\Ejer6\obj\Debug\net10.0\ref\Ejer6.dll
